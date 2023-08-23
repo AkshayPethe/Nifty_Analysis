@@ -1,4 +1,5 @@
 # Nifty 50 Index Analysis and Prediction
+![Nifty_Analysis](https://github.com/AkshayPethe/Nifty_Analysis/blob/main/Image/iStock-1349355855.jpg)
 
 ## Overview
 
