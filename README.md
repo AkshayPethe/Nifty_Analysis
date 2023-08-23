@@ -1,4 +1,3 @@
-readme_content = """
 # Nifty 50 Index Analysis and Prediction
 
 ## Overview
